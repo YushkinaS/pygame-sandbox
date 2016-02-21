@@ -8,3 +8,8 @@
 <h4>Изображения взяты отсюда:</h4>
 <p>http://www.gdunlimited.net/resources/cat/general/chibi</p>
 <p>http://www.gdunlimited.net/resources/cat/general/tilesets/</p>
+
+<h4>Управление</h4>
+Движение: мышь, ASDF или arrow keys<br>
+Пробел - генерация новой карты<br>
+M - открыть/закрыть карту мира<br>
