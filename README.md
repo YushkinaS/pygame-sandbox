@@ -1,7 +1,7 @@
 # pygame-sandbox
 2d top-down game prototype. 
 
-<img src="https://github.com/YushkinaS/pygame-sandbox/blob/master/screenshot1.png">
+<img src="https://github.com/YushkinaS/pygame-sandbox/blob/master/screenshot1.png" width=300">
 
 <h4>Источники вдохновения:</h4>
 <p>http://pygame.org/project-QQ-1889-.html - загрузка и нарезка изображений, а также применение генераторов (yield) </p>
