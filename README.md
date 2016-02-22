@@ -1,6 +1,8 @@
 # pygame-sandbox
 2d top-down game prototype. 
 
+<img src="https://github.com/YushkinaS/pygame-sandbox/blob/master/screenshot1.png">
+
 <h4>Источники вдохновения:</h4>
 <p>http://pygame.org/project-QQ-1889-.html - загрузка и нарезка изображений, а также применение генераторов (yield) </p>
 <p>http://pygame.org/project-Perlin%20Noise%20Generator-1044-.html - цветовое кодирование участков случайно сгенерированной карты, а также функция сглаживания карты </p>
